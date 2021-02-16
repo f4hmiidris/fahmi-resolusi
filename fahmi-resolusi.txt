@@ -1,0 +1,5 @@
+Fahmi Resolusi
+- Bisa VueJS
+- Bisa ReactJS
+- Bisa NodeJS
+- Bisa Python
