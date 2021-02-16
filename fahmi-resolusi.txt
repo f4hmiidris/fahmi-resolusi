@@ -3,3 +3,5 @@ Fahmi Resolusi
 - Bisa ReactJS
 - Bisa NodeJS
 - Bisa Python
+- Bisa Membuat Project AI
+- Membangun Start Up
